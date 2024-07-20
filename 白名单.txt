@@ -1,4 +1,4 @@
-中国移动(无法识别手机一键登录)
+#中国移动(无法识别手机一键登录)
 @@||config.cmpassport.com^
 @@||www.cmpassport.com^
 @@||wap.cmpassport.com^
@@ -7,7 +7,7 @@
 @@||smsks1.cmpassport.com^
 @@||verify.cmpassport.com^
 
-中国联通(无法识别手机一键登录)
+#中国联通(无法识别手机一键登录)
 @@||opencloud.wostore.cn^
 @@||auth.wosms.cn^
 @@||id.mail.wo.cn^
@@ -16,11 +16,11 @@
 @@||nishub1.10010.com^
 @@||enrichgw.10010.com^
 
-中国电信(无法识别手机一键登录)
+#中国电信(无法识别手机一键登录)
 @@||id6.me^
 @@||open.e.189.cn^
 
-中国广电(无法识别手机一键登录)
+#中国广电(无法识别手机一键登录)
 @@||Idk.^
 
 #小米云备份
