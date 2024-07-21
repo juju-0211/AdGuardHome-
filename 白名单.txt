@@ -30,6 +30,7 @@
 @@||hdns.ksyun.com^
 @@||api.kuaishouzt.com^
 @@||api.kingdata.ksyun.com^
+@@||s2.kskwai.com^
 
 #搜狗输入法皮肤
 @@||img.shouji.sogou.com^
