@@ -42,3 +42,4 @@
 @@||mon.zijieapi.com^
 @@||cfg.imtt.qq.com^
 @@||openmonitor.alipay-eco.com^
+@@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
